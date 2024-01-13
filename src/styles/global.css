@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Calibri:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Tera:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monoton:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Meie+Script:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ledger:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Sans:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inspiration:wght@400&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ody {
+    @apply leading-[normal] m-0;
+  }
+  *,
+  ::before,
+  ::after {
+    border-width: 0;
+  }
+  
