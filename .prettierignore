@@ -1,4 +1,12 @@
-.cache
-package.json
-package-lock.json
-public
+# Dossiers générés pendant la construction de Gatsby
+public/
+
+# Dossiers de dépendances
+node_modules/
+
+# Fichiers d'environnement
+.env*
+
+# Fichiers générés pendant le développement local
+.cache/
+*.log

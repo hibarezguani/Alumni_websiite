@@ -1,4 +1,18 @@
+# Dossiers générés pendant la construction de Gatsby
+public/
+
+# Dossiers de dépendances
 node_modules/
+
+# Fichiers d'environnement
+.env*
+
+# Fichiers générés pendant le développement local
 .cache/
-public
+*.log
+
+# Fichiers de sauvegarde ou temporaires
+*~
+*.swp
+
 src/gatsby-types.d.ts
